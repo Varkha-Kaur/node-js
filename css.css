@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(1, 234, 250);
+}
+
+.ext{
+    color: cornsilk;
+}
+p{
+    font-size: large;
+}
+#id{
+    color: bisque;
+    font-style: italic;
+}
+a:hover{
+    color: black;
+    background-color: greenyellow;
+}
+input[type="text"]{
+    border: 5px solid yellow;
+}
